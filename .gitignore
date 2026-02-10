@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+venv/
+.env
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
